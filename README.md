@@ -3,3 +3,6 @@ The VR-LS (virtual reality locomotion system) is a new solution for better locom
 
 More information:
 https://www.marvin-tec.ch/vr-ls-hardware-software
+
+Disclaimer
+I taught myself programming, so don't expect professional code. For a community project, all code will probably have to be rewritten and restructured. Nevertheless, the code works well and should be a good basis for further development. I don't know how to use github yet (working on that), so I just dumped the main code on here..
