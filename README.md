@@ -8,7 +8,7 @@ Disclaimer:
 I taught myself programming, so don't expect professional code. For a community project, all code will probably have to be rewritten and restructured. Nevertheless, the code works well and should be a good basis for further development. I don't know how to use github yet (working on that), so I just dumped the main code on here.. hihi
 Proabably a good start would be to switch fom a ESP8266 to ESP32.
 
-The Code is Explained in the PDF file. (Also Pinout is there)
+The Code flow and Pinout are in the PDF
 
 
 ![IMG_3803](https://user-images.githubusercontent.com/22561089/192105609-8bbedd41-e5ea-4bc7-8ed9-6744eb2f9546.jpg)
