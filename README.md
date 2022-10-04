@@ -10,5 +10,5 @@ Proabably a good start would be to switch fom a ESP8266 to ESP32.
 
 The Code flow and Pinout are in the PDF
 
+![IMG_5314(copy)](https://user-images.githubusercontent.com/22561089/193820188-e6347964-2926-4760-b2d9-f2344f0c4864.jpg)
 
-![IMG_3803](https://user-images.githubusercontent.com/22561089/192105609-8bbedd41-e5ea-4bc7-8ed9-6744eb2f9546.jpg)
